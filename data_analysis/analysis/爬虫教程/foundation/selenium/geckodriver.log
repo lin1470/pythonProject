@@ -1,0 +1,53 @@
+1508030413192	geckodriver	INFO	geckodriver 0.19.0
+1508030413200	geckodriver	INFO	Listening on 127.0.0.1:46969
+1508030414337	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.lUKgFZw7NGBB"
+1508030415298	Marionette	INFO	Enabled via --marionette
+1508030416982	Marionette	INFO	Listening on port 42019
+1508030417178	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1508030417249	Marionette	DEBUG	loaded listener.js
+1508030417286	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508030417552	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508030417552	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1508030418005	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1508030418088	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1508030495623	geckodriver	INFO	geckodriver 0.19.0
+1508030495627	geckodriver	INFO	Listening on 127.0.0.1:37871
+1508030496785	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.lSndfBIZTeRY"
+1508030497358	Marionette	INFO	Enabled via --marionette
+1508030498862	Marionette	INFO	Listening on port 32855
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1508030499006	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508030499112	Marionette	DEBUG	loaded listener.js
+1508030499175	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508030499660	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508030499662	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1508030500084	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1508030500158	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1508030530115	geckodriver	INFO	geckodriver 0.19.0
+1508030530119	geckodriver	INFO	Listening on 127.0.0.1:43315
+1508030531246	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.fFFFbkalq7ct"
+1508030531847	Marionette	INFO	Enabled via --marionette
+1508030533322	Marionette	INFO	Listening on port 43811
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1508030533614	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508030533692	Marionette	DEBUG	loaded listener.js
+1508030533770	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508030534061	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508030534062	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1508030534521	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1508030534615	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1508030692769	geckodriver	INFO	geckodriver 0.19.0
+1508030692774	geckodriver	INFO	Listening on 127.0.0.1:51051
+1508030693920	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Z2iPjPzUMt1x"
+1508030694486	Marionette	INFO	Enabled via --marionette
+1508030695902	Marionette	INFO	Listening on port 36677
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1508030696060	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508030696161	Marionette	DEBUG	loaded listener.js
+1508030696196	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508030696981	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508030696982	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
