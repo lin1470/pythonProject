@@ -1,74 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae391fa6-18b2-4f14-a9e2-6699188d3bbc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../QtCode/day01/03signal/03signal.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day01/03signal/03signal.pro" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../QtCode/day01/03signal/03signal.pro.user" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day01/03signal/03signal.pro.user" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../QtCode/day01/03signal/mainwidget.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day01/03signal/mainwidget.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../QtCode/day01/03signal/mainwidget.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day01/03signal/mainwidget.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../QtCode/day01/03signal/subwidget.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day01/03signal/subwidget.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../QtCode/day01/03signal/subwidget.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day01/03signal/subwidget.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../QtCode/day01/build-03signal-Desktop_Qt_5_10_0_GCC_64bit-Debug/03signal" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day01/build-03signal-Desktop_Qt_5_10_0_GCC_64bit-Debug/03signal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../QtCode/day01/build-03signal-Desktop_Qt_5_10_0_GCC_64bit-Debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day01/build-03signal-Desktop_Qt_5_10_0_GCC_64bit-Debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../QtCode/day01/build-03signal-Desktop_Qt_5_10_0_GCC_64bit-Debug/mainwidget.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day01/build-03signal-Desktop_Qt_5_10_0_GCC_64bit-Debug/mainwidget.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../QtCode/day01/build-03signal-Desktop_Qt_5_10_0_GCC_64bit-Debug/moc_mainwidget.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day01/build-03signal-Desktop_Qt_5_10_0_GCC_64bit-Debug/moc_mainwidget.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../QtCode/day01/build-03signal-Desktop_Qt_5_10_0_GCC_64bit-Debug/moc_mainwidget.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day01/build-03signal-Desktop_Qt_5_10_0_GCC_64bit-Debug/moc_mainwidget.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../QtCode/day01/build-03signal-Desktop_Qt_5_10_0_GCC_64bit-Debug/moc_subwidget.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day01/build-03signal-Desktop_Qt_5_10_0_GCC_64bit-Debug/moc_subwidget.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../QtCode/day01/build-03signal-Desktop_Qt_5_10_0_GCC_64bit-Debug/moc_subwidget.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day01/build-03signal-Desktop_Qt_5_10_0_GCC_64bit-Debug/moc_subwidget.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../QtCode/day01/build-03signal-Desktop_Qt_5_10_0_GCC_64bit-Debug/subwidget.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day01/build-03signal-Desktop_Qt_5_10_0_GCC_64bit-Debug/subwidget.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../QtCode/day01/coordinate/coordinate.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day01/coordinate/coordinate.pro" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../QtCode/day01/coordinate/mybutton.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day01/coordinate/mybutton.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../QtCode/day01/coordinate/mybutton.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day01/coordinate/mybutton.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../QtCode/day01/coordinate/mywidget.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day01/coordinate/mywidget.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../QtCode/day01/coordinate/mywidget.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day01/coordinate/mywidget.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../QtCode/day01/dialog/mainwindow.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day01/dialog/mainwindow.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../QtCode/day01/mainWindow/mainwindow.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day01/mainWindow/mainwindow.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../QtCode/day02/androidTest/mainwindow.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day02/androidTest/mainwindow.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../QtCode/day02/layouts/mainwindow.ui" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day02/layouts/mainwindow.ui" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../QtCode/day02/widgets/image.qrc" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day02/widgets/image.qrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../QtCode/day02/widgets/mainwindow.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day02/widgets/mainwindow.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../QtCode/day02/widgets/mainwindow.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day02/widgets/mainwindow.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../QtCode/day02/widgets/mainwindow.ui" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day02/widgets/mainwindow.ui" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../QtCode/day02/widgets/widgets.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtCode/day02/widgets/widgets.pro" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../c_language/cprimer/dymatic_memory/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../c_language/cprimer/dymatic_memory/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../c_language/linux/system/IPC/fork_share_file.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../c_language/linux/system/IPC/fork_share_file.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../c_language/linux/system/process/loopCreate.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../c_language/linux/system/process/loopCreate.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../c_language/linux/system/process/processShare.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../c_language/linux/system/process/processShare.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../php/basic/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/basic/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../php/basic/.idea/deployment.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../php/basic/.idea/hello.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/basic/.idea/hello.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../php/basic/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/basic/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../php/basic/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/basic/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../php/basic/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/basic/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../php/basic/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/basic/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../php/basic/.idea/webServers.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../php/basic/array.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/basic/array.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../php/basic/checkBox.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/basic/checkBox.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../php/basic/checkBox.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/basic/checkBox.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../php/basic/const.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/basic/const.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../php/basic/file1.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/basic/file1.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../php/basic/file2.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/basic/file2.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../php/basic/fileSystem/delete.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/basic/fileSystem/delete.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../php/basic/fileSystem/dirfile.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/basic/fileSystem/dirfile.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../php/basic/fileSystem/getfile.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/basic/fileSystem/getfile.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../php/basic/fileSystem/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/basic/fileSystem/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../php/basic/get.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/basic/get.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../php/basic/h.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/basic/h.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../php/basic/hello.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/basic/hello.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../php/basic/include1.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/basic/include1.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../php/basic/include2.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/basic/include2.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../php/basic/include3.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/basic/include3.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../php/basic/include4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/basic/include4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../php/basic/multiply.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/basic/multiply.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../php/basic/multiply1.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/basic/multiply1.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../php/basic/multiply2.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/basic/multiply2.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../php/basic/string.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/basic/string.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../php/basic/variable.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/basic/variable.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../php/drupal/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/drupal/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../php/drupal/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/drupal/.idea/webServers.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../php/drupal/examples/cron_example/cron_example.info" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/drupal/examples/cron_example/cron_example.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../unixEnv/pratices/process/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../unixEnv/pratices/process/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ae391fa6-18b2-4f14-a9e2-6699188d3bbc" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,27 +9,27 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PyQt5$PyQt5.coverage" NAME="PyQt5 Coverage Results" MODIFIED="1544173497511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/PyQt5$eventObject.coverage" NAME="eventObject Coverage Results" MODIFIED="1544239193061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Events&amp;Siangals" />
+    <SUITE FILE_PATH="coverage/PyQt5$sigslot.coverage" NAME="sigslot Coverage Results" MODIFIED="1544238123340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Events&amp;Siangals" />
+    <SUITE FILE_PATH="coverage/PyQt5$customSignal.coverage" NAME="customSignal Coverage Results" MODIFIED="1544241272722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Events&amp;Siangals" />
+    <SUITE FILE_PATH="coverage/PyQt5$center.coverage" NAME="center Coverage Results" MODIFIED="1544179138727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FirstExample" />
+    <SUITE FILE_PATH="coverage/PyQt5$eventSource.coverage" NAME="eventSource Coverage Results" MODIFIED="1544239679813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Events&amp;Siangals" />
+    <SUITE FILE_PATH="coverage/PyQt5$fileName.coverage" NAME="fileName Coverage Results" MODIFIED="1544279781873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dialog" />
     <SUITE FILE_PATH="coverage/PyQt5$icon.coverage" NAME="icon Coverage Results" MODIFIED="1544173544240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FirstExample" />
+    <SUITE FILE_PATH="coverage/PyQt5$escape.coverage" NAME="escape Coverage Results" MODIFIED="1544238568458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Events&amp;Siangals" />
+    <SUITE FILE_PATH="coverage/PyQt5$tooltip.coverage" NAME="tooltip Coverage Results" MODIFIED="1544176869485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FirstExample" />
     <SUITE FILE_PATH="coverage/PyQt5$fileDialog.coverage" NAME="fileDialog Coverage Results" MODIFIED="1544243895445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dialog" />
     <SUITE FILE_PATH="coverage/PyQt5$quiButton.coverage" NAME="quiButton Coverage Results" MODIFIED="1544176874503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FirstExample" />
     <SUITE FILE_PATH="coverage/PyQt5$messagebox.coverage" NAME="messagebox Coverage Results" MODIFIED="1544177578679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FirstExample" />
-    <SUITE FILE_PATH="coverage/PyQt5$center.coverage" NAME="center Coverage Results" MODIFIED="1544179138727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FirstExample" />
-    <SUITE FILE_PATH="coverage/PyQt5$eventSource.coverage" NAME="eventSource Coverage Results" MODIFIED="1544239679813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Events&amp;Siangals" />
-    <SUITE FILE_PATH="coverage/PyQt5$eventObject.coverage" NAME="eventObject Coverage Results" MODIFIED="1544239193061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Events&amp;Siangals" />
     <SUITE FILE_PATH="coverage/PyQt5$statusbar.coverage" NAME="statusbar Coverage Results" MODIFIED="1544234873501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/menus&amp;toolbars" />
-    <SUITE FILE_PATH="coverage/PyQt5$customSignal.coverage" NAME="customSignal Coverage Results" MODIFIED="1544241272722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Events&amp;Siangals" />
-    <SUITE FILE_PATH="coverage/PyQt5$escape.coverage" NAME="escape Coverage Results" MODIFIED="1544238568458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Events&amp;Siangals" />
-    <SUITE FILE_PATH="coverage/PyQt5$sigslot.coverage" NAME="sigslot Coverage Results" MODIFIED="1544238123340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Events&amp;Siangals" />
-    <SUITE FILE_PATH="coverage/PyQt5$PyQt5.coverage" NAME="PyQt5 Coverage Results" MODIFIED="1544173497511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/PyQt5$fileName.coverage" NAME="fileName Coverage Results" MODIFIED="1544279781873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dialog" />
-    <SUITE FILE_PATH="coverage/PyQt5$tooltip.coverage" NAME="tooltip Coverage Results" MODIFIED="1544176869485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FirstExample" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Events&amp;Siangals/customSignal.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
+            <state relative-caret-position="684">
               <caret line="40" column="37" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
             </state>
           </provider>
@@ -105,7 +38,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dialog/fileDialog.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
+            <state relative-caret-position="792">
               <caret line="47" column="139" selection-start-line="47" selection-start-column="139" selection-end-line="47" selection-end-column="139" />
               <folding>
                 <element signature="e#237#354#0" expanded="true" />
@@ -126,7 +59,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Events&amp;Siangals/eventSource.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="394">
+            <state relative-caret-position="738">
               <caret line="42" column="30" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
             </state>
           </provider>
@@ -135,20 +68,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dialog/fileName.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1278">
-              <caret line="71" column="33" lean-forward="true" selection-start-line="71" selection-start-column="33" selection-end-line="71" selection-end-column="33" />
-              <folding>
-                <element signature="e#43#160#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1247971763/PyQt5/QtWidgets/QFileDialog.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-5106">
-              <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+            <state relative-caret-position="270">
+              <caret line="71" column="33" selection-start-line="71" selection-start-column="33" selection-end-line="71" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -156,7 +77,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Events&amp;Siangals/escape.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
+            <state relative-caret-position="504">
               <caret line="30" column="51" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
             </state>
           </provider>
@@ -173,7 +94,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -205,7 +126,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -227,6 +147,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -404,16 +325,17 @@
       <workItem from="1544173304214" duration="5676000" />
       <workItem from="1544234836816" duration="6261000" />
       <workItem from="1544259177126" duration="9990000" />
+      <workItem from="1544412467194" duration="39000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26840000" />
+    <option name="totallyTimeSpent" value="26879000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="768" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36555892" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.37140697" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -427,9 +349,11 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32972136" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.41795665" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.26065573" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32972136" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32838285" />
+      <window_info anchor="right" id="R Graphics" />
+      <window_info anchor="right" id="R Packages" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -448,13 +372,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1247971763/PyQt5/QtWidgets/QWidget.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="221" column="8" selection-start-line="221" selection-start-column="8" selection-end-line="221" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1247971763/PyQt5/QtWidgets/QWidget.py" />
     <entry file="file://$PROJECT_DIR$/FirstExample/icon.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -479,13 +397,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1247971763/PyQt5/QtCore/Qt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="474" column="4" selection-start-line="474" selection-start-column="4" selection-end-line="474" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1247971763/PyQt5/QtCore/Qt.py" />
     <entry file="file://$PROJECT_DIR$/menus&amp;toolbars/statusbar.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="452">
@@ -514,17 +426,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1247971763/PyQt5/QtWidgets/QFileDialog.py" />
     <entry file="file://$PROJECT_DIR$/Events&amp;Siangals/customSignal.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
+        <state relative-caret-position="684">
           <caret line="40" column="37" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Events&amp;Siangals/eventSource.py">
+    <entry file="file://$PROJECT_DIR$/dialog/fileDialog.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="42" column="30" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
+        <state relative-caret-position="792">
+          <caret line="47" column="139" selection-start-line="47" selection-start-column="139" selection-end-line="47" selection-end-column="139" />
+          <folding>
+            <element signature="e#237#354#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -535,37 +451,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dialog/fileDialog.py">
+    <entry file="file://$PROJECT_DIR$/Events&amp;Siangals/eventSource.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="47" column="139" selection-start-line="47" selection-start-column="139" selection-end-line="47" selection-end-column="139" />
-          <folding>
-            <element signature="e#237#354#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="738">
+          <caret line="42" column="30" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Events&amp;Siangals/escape.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
+        <state relative-caret-position="504">
           <caret line="30" column="51" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1247971763/PyQt5/QtWidgets/QFileDialog.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5106">
-          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dialog/fileName.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1278">
-          <caret line="71" column="33" lean-forward="true" selection-start-line="71" selection-start-column="33" selection-end-line="71" selection-end-column="33" />
-          <folding>
-            <element signature="e#43#160#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="270">
+          <caret line="71" column="33" selection-start-line="71" selection-start-column="33" selection-end-line="71" selection-end-column="33" />
         </state>
       </provider>
     </entry>
