@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae391fa6-18b2-4f14-a9e2-6699188d3bbc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dialog/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dialog/pic2pdf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/signal&amp;slot/hello.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PyQt5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PyQt5.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dialog/fileName.py" beforeDir="false" afterPath="$PROJECT_DIR$/dialog/ui.py" afterDir="false" />
-    </list>
+    <list default="true" id="ae391fa6-18b2-4f14-a9e2-6699188d3bbc" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,19 +38,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dialog/ui.py">
+        <entry file="file://$PROJECT_DIR$/pic2pdf/ui.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="53" lean-forward="true" selection-start-line="4" selection-end-line="5" selection-end-column="53" />
+            <state relative-caret-position="72">
+              <caret line="4" column="67" lean-forward="true" selection-start-line="3" selection-end-line="4" selection-end-column="67" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dialog/main.py">
+        <entry file="file://$PROJECT_DIR$/pic2pdf/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="126">
+              <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
               <folding>
                 <element signature="e#0#4#0" expanded="true" />
               </folding>
@@ -67,7 +59,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dialog/pic2pdf.py">
+        <entry file="file://$PROJECT_DIR$/pic2pdf/pic2pdf.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="11" lean-forward="true" selection-start-column="11" selection-end-column="11" />
@@ -108,6 +100,7 @@
         <option value="$PROJECT_DIR$/dialog/fileName.py" />
         <option value="$PROJECT_DIR$/dialog/pic2pdf.py" />
         <option value="$PROJECT_DIR$/dialog/main.py" />
+        <option value="$PROJECT_DIR$/pic2pdf/main.py" />
       </list>
     </option>
   </component>
@@ -129,11 +122,6 @@
               <item name="PyQt5" type="b2602c69:ProjectViewProjectNode" />
               <item name="PyQt5" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="PyQt5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PyQt5" type="462c0819:PsiDirectoryNode" />
-              <item name="dialog" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -147,6 +135,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pic2pdf" />
       <recent name="$PROJECT_DIR$/FirstExample" />
     </key>
   </component>
@@ -318,23 +307,30 @@
       <workItem from="1544259177126" duration="9990000" />
       <workItem from="1544412467194" duration="39000" />
       <workItem from="1544427972713" duration="518000" />
-      <workItem from="1544692851427" duration="2214000" />
+      <workItem from="1544692851427" duration="2470000" />
     </task>
+    <task id="LOCAL-00001" summary="resoleve the structure of the code">
+      <created>1544698446617</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1544698446617</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29611000" />
+    <option name="totallyTimeSpent" value="29867000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2031722" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2031722" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32352942" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32352942" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39933994" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -343,7 +339,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32972136" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.25386998" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.25386998" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32972136" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32838285" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -357,6 +353,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="resoleve the structure of the code" />
+    <option name="LAST_COMMIT_MESSAGE" value="resoleve the structure of the code" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/FirstExample/dateTime.ipynb">
@@ -466,24 +466,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dialog/pic2pdf.py">
+    <entry file="file://$PROJECT_DIR$/pic2pdf/pic2pdf.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="11" lean-forward="true" selection-start-column="11" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dialog/ui.py">
+    <entry file="file://$PROJECT_DIR$/pic2pdf/ui.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="53" lean-forward="true" selection-start-line="4" selection-end-line="5" selection-end-column="53" />
+        <state relative-caret-position="72">
+          <caret line="4" column="67" lean-forward="true" selection-start-line="3" selection-end-line="4" selection-end-column="67" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dialog/main.py">
+    <entry file="file://$PROJECT_DIR$/pic2pdf/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="126">
+          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
           <folding>
             <element signature="e#0#4#0" expanded="true" />
           </folding>
