@@ -24,6 +24,9 @@ def preprocess():
 
 def afterProcess():
     print("afterprocess")
+    with open('data/output_mods.xml','r') as readfile:
+        content = readfile.readlines()
+        print(content)
     attribute = None
     with open('data/attributeConfig.txt','r') as attrfile:
         attribute = attrfile.readline()

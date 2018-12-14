@@ -3,6 +3,8 @@ import sys
 import os
 import csv
 from pretty_process import *
+from util import *
+
 
 # 自定义一个转换的代码类
 class Transformer():
@@ -57,6 +59,11 @@ class Transformer():
             dctext = None
             for item in dcroot.iter(dcword):
                 dctext = item.text
+                # 如果用的是xmlparser的话，是可以直接转换的。
+                # 转换中文的html格式
+                # if is_chinese(dctext):
+                #     dctext = chinese2html(dctext)
+                #     print(dctext)
             for item in modsroot.iter(modsword):
                 item.text = dctext
         self.modsData.write(self.outputPath)
@@ -68,6 +75,8 @@ class Transformer():
     def afterProcess(self):
         afterProcess()
 
+
 if __name__ == '__main__':
     transformer = Transformer()
     transformer.transform()
+

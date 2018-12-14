@@ -19,4 +19,15 @@
   <rights>
     <accessrights>1</accessrights>
   </rights>
+  <genre authority="lctgm"></genre>
+  <originInfo>
+		<dateIssued>2012-11-15</dateIssued>
+		<publisher></publisher>
+		<place>
+			<placeTerm authority="marccountry" type="code"></placeTerm>
+		</place>
+		<place>
+			<placeTerm type="text"></placeTerm>
+		</place>
+  </originInfo>
 </mods>
