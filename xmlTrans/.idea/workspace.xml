@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b67ec66c-2d2a-42be-9307-dbae329e1e16" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/data/data.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PyQt5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PyQt5/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/util.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,11 +42,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data_collector.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+            <state relative-caret-position="990">
+              <caret line="55" column="26" lean-forward="true" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
               <folding>
                 <element signature="e#4#15#0" expanded="true" />
               </folding>
@@ -80,7 +82,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/data/3.jpg">
           <provider selected="true" editor-type-id="images" />
         </entry>
@@ -155,11 +157,6 @@
             <path>
               <item name="xmlTrans" type="b2602c69:ProjectViewProjectNode" />
               <item name="xmlTrans" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xmlTrans" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xmlTrans" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -302,7 +299,7 @@
       <workItem from="1544699767509" duration="5602000" />
       <workItem from="1544755260115" duration="353000" />
       <workItem from="1544755689765" duration="6644000" />
-      <workItem from="1545874084489" duration="9589000" />
+      <workItem from="1545874084489" duration="9695000" />
     </task>
     <task id="LOCAL-00001" summary="xmltransformer">
       <created>1544763375696</created>
@@ -311,22 +308,28 @@
       <option name="project" value="LOCAL" />
       <updated>1544763375696</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="添加了数据收集器">
+      <created>1545886927072</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1545886927072</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22188000" />
+    <option name="totallyTimeSpent" value="22294000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25037822" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32972136" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2885246" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.16393442" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -386,7 +389,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="xmltransformer" />
-    <option name="LAST_COMMIT_MESSAGE" value="xmltransformer" />
+    <MESSAGE value="添加了数据收集器" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加了数据收集器" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/data/urlconfig.txt" />
@@ -502,6 +506,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/data/3.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_collector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="55" column="26" lean-forward="true" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
+          <folding>
+            <element signature="e#4#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/data/1.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -524,23 +545,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data/3.jpg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/3.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_collector.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
-          <folding>
-            <element signature="e#4#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
   </component>
 </project>
