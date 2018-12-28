@@ -1,5 +1,5 @@
 def preprocess():
-    print('preprocess')
+    # print('preprocess')
     attribute = None
     with open('data/mods.xml','r') as xmlfile:
         content = xmlfile.readlines()
@@ -17,26 +17,28 @@ def preprocess():
             lineCount += 1
             if lineCount == 2:
                 row = row.replace(attribute,'',len(attribute))
-                print(attribute,'\n',row)
+                # print(attribute,'\n',row)
                 writefile.write(row)
             else:
                 writefile.write(row)
 
 def afterProcess():
-    print("afterprocess")
+    # print("afterprocess")
     with open('data/output_mods.xml','r') as readfile:
         content = readfile.readlines()
-        print(content)
+        # print(content)
     attribute = None
     with open('data/attributeConfig.txt','r') as attrfile:
         attribute = attrfile.readline()
-        print(attribute)
-    xmltitle = '<?xml version="1.0"?>\n'
+        # print(attribute)
+    # xmltitle = '<?xml version="1.0"?>\n'
     with open('data/output_mods.xml','r+') as outputfile:
-        firstline = outputfile.readline()[0:-2] + ' '+ attribute + '>\n'
+        firstline = outputfile.readline()
+        secondline = outputfile.readline()[0:-2] + ' ' + attribute + '>\n'
         content = outputfile.readlines()
         outputfile.seek(0,0)
-        outputfile.write(xmltitle+firstline)
+        outputfile.write(firstline)
+        outputfile.write(secondline)
         for row in content:
             outputfile.write(row)
 
