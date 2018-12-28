@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b67ec66c-2d2a-42be-9307-dbae329e1e16" name="Default Changelist" comment="">
+    <list default="true" id="b67ec66c-2d2a-42be-9307-dbae329e1e16" name="Default Changelist" comment="添加了数据收集器">
       <change beforePath="$PROJECT_DIR$/../PyQt5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PyQt5/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/output_mods.xml" beforeDir="false" afterPath="$PROJECT_DIR$/data/output_mods.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pretty_process.py" beforeDir="false" afterPath="$PROJECT_DIR$/pretty_process.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,8 +46,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Transformer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1260">
-              <caret line="70" column="23" lean-forward="true" selection-start-line="70" selection-start-column="23" selection-end-line="70" selection-end-column="23" />
+            <state relative-caret-position="180">
+              <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
               <folding>
                 <element signature="e#0#34#0" expanded="true" />
               </folding>
@@ -281,7 +279,7 @@
       <workItem from="1544755689765" duration="6644000" />
       <workItem from="1545874084489" duration="9695000" />
       <workItem from="1545963174353" duration="1624000" />
-      <workItem from="1545972659502" duration="2606000" />
+      <workItem from="1545972659502" duration="2887000" />
     </task>
     <task id="LOCAL-00001" summary="xmltransformer">
       <created>1544763375696</created>
@@ -297,15 +295,21 @@
       <option name="project" value="LOCAL" />
       <updated>1545886927072</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="增加新检查功能">
+      <created>1545975545992</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1545975545992</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26524000" />
+    <option name="totallyTimeSpent" value="26805000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2579425" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -348,7 +352,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="xmltransformer" />
     <MESSAGE value="添加了数据收集器" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加了数据收集器" />
+    <MESSAGE value="增加新检查功能" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加新检查功能" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/data/urlconfig.txt" />
@@ -505,8 +510,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Transformer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1260">
-          <caret line="70" column="23" lean-forward="true" selection-start-line="70" selection-start-column="23" selection-end-line="70" selection-end-column="23" />
+        <state relative-caret-position="180">
+          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
           <folding>
             <element signature="e#0#34#0" expanded="true" />
           </folding>
